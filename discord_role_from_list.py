@@ -115,4 +115,4 @@ async def on_ready():
     #     print(f'❌ {newstring} was unable to be added to the {role}') 
 
 
-client.run('OTIxMTkxNzg4NjkyMjc1MjYw.YbvUtQ.6NS2NgUsqnwkW0xj6HB4AKJ0cSs')
+client.run('[insert token here]')
